@@ -4,7 +4,7 @@
   "description": "this is effic",
   "main": "app.js",
   "dependencies": {
-    "angular": "1.4.8",
+    "angular": "1.8.2",
     "angular-route": "^1.4.9",
     "body-parser": "^1.15.0",
     "colors": "^1.1.2",
